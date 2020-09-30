@@ -1,0 +1,193 @@
+@media (min-width: 1400px) {
+}
+
+@media (max-width: 1399px) {
+  .owl-nav .owl-prev {
+    right: -8%;
+  }
+}
+
+@media (max-width: 1199px) {
+  .trusted {
+    background-size: 614px;
+    background-position: center left;
+  }
+  .owl-nav button {
+    bottom: 4%;
+  }
+  .owl-dots {
+    right: -142px;
+    bottom: 21px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .worldwide_user .about_user h4 {
+    font-size: 15px;
+  }
+  .worldwide_user .about_user span {
+    font-size: 13px;
+  }
+  .worldwide_user p {
+    margin-top: 12px;
+    font-size: 12px;
+  }
+  .number_part {
+    padding: 98px 0;
+    background-size: 637px;
+    background-position: center right;
+  }
+  .subscribe_left .email {
+    width: 67%;
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar-toggler {
+    background: white;
+  }
+  .banner {
+    background-image: none;
+  }
+  .banner_content h1 {
+    text-align: center;
+  }
+  .purchase_icon {
+    text-align: center;
+  }
+  .banner {
+    background-image: none;
+  }
+  .banner_img {
+    display: block;
+  }
+  .gobal_item_right {
+    margin-top: 35px;
+  }
+  .trusted {
+    background-image: none;
+  }
+  .trusted_img {
+    display: block;
+  }
+  .trusted {
+    padding: 80px 0;
+  }
+  .trusted_right {
+    margin-top: 50px;
+  }
+  .worldwide_right .codrop_text h3 {
+    margin-top: 55px;
+  }
+  .owl-nav .owl-prev {
+    left: -9%;
+  }
+  .owl-nav .owl-next {
+    right: -3%;
+  }
+  .owl-nav button {
+    bottom: 47%;
+  }
+  .owl-dots {
+    left: 309px;
+    bottom: -12px;
+  }
+  .number_part {
+    background-image: none;
+  }
+  .numberpart_right {
+    display: block;
+    margin-top: 60px;
+  }
+  .ratting_wrap {
+    justify-content: center;
+  }
+  .counter_app {
+    text-align: center;
+  }
+  .top_item {
+    margin-top: 0;
+    border-top: none;
+  }
+  .best_market_item {
+    margin-bottom: 25px;
+  }
+  .subscribe_left .email {
+    width: 69%;
+  }
+  .subscribe_right {
+    margin-top: 40px;
+  }
+  .footer_top_content {
+    margin-bottom: 45px;
+  }
+  .footer_top_content h4 {
+    margin-bottom: 14px;
+  }
+}
+
+@media (max-width: 767px) {
+  .banner {
+    background-image: none;
+  }
+  .company img {
+    width: 66%;
+    margin-bottom: 29px;
+  }
+  .col-xl-3.col-lg-3.col-md-3.col-sm-12 {
+    text-align: center;
+  }
+  .gobal_item_part {
+    margin-top: 40px;
+  }
+  .worldwide_user .user {
+    width: 12%;
+    margin-right: 10px;
+  }
+  .worldwide_user .about_user {
+    width: 84%;
+  }
+  .worldwide_user p {
+    margin-top: 5px;
+    margin-bottom: 1px;
+  }
+  .owl-nav {
+    display: none;
+  }
+  .owl-dots {
+    left: 41%;
+  }
+  .subscribe_left .email {
+    width: 68%;
+  }
+  .subscribe_left button {
+    margin-left: 16px;
+    font-size: 15px;
+  }
+  .bottom_content_right {
+    text-align: center;
+  }
+  .bottom_content_left {
+    text-align: center;
+  }
+}
+
+@media (max-width: 575px) {
+  .banner {
+    background-image: none;
+  }
+  .subscribe_left .checkbox_label {
+    margin-left: 2px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 400px) {
+  .subscribe_left .email {
+    width: 100%;
+  }
+  .subscribe_left button {
+    width: 100%;
+    margin-left: 0px !important;
+  }
+}
